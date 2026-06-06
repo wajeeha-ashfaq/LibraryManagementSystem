@@ -1,6 +1,7 @@
 using MySql.Data.MySqlClient;
+using LibraryManagementSystem.Database;
 
-namespace LibraryManagementSystem
+namespace LibraryManagementSystem.Forms
 {
     public partial class LoginForm : Form
     {

@@ -8,8 +8,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using LibraryManagementSystem.Database;
 
-namespace LibraryManagementSystem
+namespace LibraryManagementSystem.Forms
 {
     public partial class StudentForm : Form
     {

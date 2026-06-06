@@ -8,8 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
-namespace LibraryManagementSystem
+using LibraryManagementSystem.Database;
+namespace LibraryManagementSystem.Forms
 {
     public partial class ReturnBookForm : Form
     {

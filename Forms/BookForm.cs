@@ -8,9 +8,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
+using LibraryManagementSystem.Database;
 
-
-namespace LibraryManagementSystem
+namespace LibraryManagementSystem.Forms
 {
     public partial class BookForm : Form
     {

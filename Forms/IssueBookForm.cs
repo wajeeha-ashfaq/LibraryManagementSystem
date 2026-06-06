@@ -8,8 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
-
-namespace LibraryManagementSystem
+using LibraryManagementSystem.Database;
+namespace LibraryManagementSystem.Forms
 {
     public partial class IssueBookForm : Form
     {
